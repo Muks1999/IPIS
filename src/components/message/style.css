@@ -1,0 +1,293 @@
+.addMessage{
+    padding-top:1.82%;
+    padding-left:4.59%;
+    height: 439px;
+}
+
+.errorMessage{
+    color: red;
+}
+.displayBoardTxt{
+    padding-top: 7.32%;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+}
+.displayBoardBox{
+    width:53.83% !important;
+    height:91.3% !important;
+    background: #FFFFFF !important;
+    border: 1px solid #033733 !important;
+    box-sizing: border-box;
+    border-radius: 5px !important;
+    margin-top: 6.22% !important;
+}
+.messageTxt{
+    width: 6.43%;
+    font-style: normal;
+    color: #222222 !important;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+justify-content: flex-end;
+padding-right: 1.5%;
+
+align-items: center;
+text-transform: capitalize;
+}
+.messageBox{
+    width: 100%;
+    background: #FFFFFF;
+border: 1px solid #033733;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+
+.messageBox .MuiInputBase-input{
+    font-family: Roboto !important;
+}
+.addMessageContent{
+    font-family: Roboto !important;
+font-style: normal;
+font-weight: 300 !important;
+font-size: 12px !important;
+line-height: 14px !important;
+display: flex;
+align-items: center;
+color: #222222;
+}
+.language{
+    padding-top: 2.96%;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+color: #222222;
+}
+.keyBoardIcon{
+    font-size: 2.8em !important;
+    padding-left: 5.65%;
+    color: #033733;
+}
+
+.checkboxMessage{
+    padding-top: 3%;
+}
+.addCheckbox{
+    padding-left: 10%;
+}
+.addMessageBtn{
+    display: flex !important;
+flex-direction: row !important;
+justify-content: center !important;
+align-items: center !important;
+
+
+background: #009688 !important;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+border-radius: 5px !important;
+}
+
+.displaySelectedBtn{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+    /* width: 17.37%; */
+    background: #009688 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 5px !important;
+      
+}
+.messageControlBox{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 12px 10px 12px 25px;
+    font-family: Roboto;
+    position: static;
+    width: 95%;
+    height: 40px;
+    border: 1px solid #033733;
+    box-sizing: border-box;
+    border-radius: 5px;
+margin-top: 10%;
+}
+
+  
+.displayBoardTxt{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #222222;
+
+}
+.messageTable{
+    height: 205px;
+}
+.msgControlTxt{
+    font-family: Roboto !important;
+font-style: normal;
+font-weight: 300 !important;
+font-size: 12px !important;
+line-height: 14px !important;
+display: flex;
+align-items: center;
+
+color: #222222;
+}
+.displaySelectedBtn .i{
+    color: #FFFFFF;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+}
+.cancleMessagebutton{
+    font-family: Roboto !important;
+font-style: normal;
+font-weight: 500 !important;
+font-size: 12px !important;
+line-height: 14px !important;
+display: flex !important;
+align-items: center !important;
+text-transform: uppercase;
+color: #009688 !important;
+margin-right: 5% !important;
+
+}
+.messageCheckbox{
+    color: #033733 !important;
+}
+.addMessageBtn .i{
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+}
+.savedMessage{
+    padding-left: 4.5%;
+    padding-top: 1%;
+    padding-bottom: 1.41%;
+}
+.fontSize14pxCss{
+    font-size: 14px !important;
+}   
+.editIconeMessageCss{
+    color: grey;
+    padding: 1px
+}
+.messageEditIconeCss{
+    padding-left: 10px;
+    font-family: Roboto;
+}
+.deleteIconeButtoneCss{
+    font-size: 14px !important;
+    padding-left: 10px !important;
+}
+.cancelDisplayButtonCss{
+    justify-content: flex-end;
+    padding-top: 2.11%;
+    padding-bottom: 2.11%;
+    padding-right: 5.75%;
+}
+.deleteIconecss{
+    color: grey;
+    padding: 1px;
+}
+.deleteIconeSpanCss{
+    padding-left: 10px;
+    font-family: Roboto;
+}
+.sideMainCardCss{
+    padding: 15px;
+    height: 825px;
+}
+.sidechildCardCss{
+    margin-right: 10px;
+    padding-top: 6.35%;
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-bottom: 17.14%
+}
+.redColor{
+    color: red !important;
+}
+.paddingLeftCss{
+    padding-left: 10%;
+}
+.marginTop3Css{
+    margin-top: 3%;
+}
+.marginTop2Css{
+    margin-top: 2%;
+}
+.cancelSubmitCss{
+    justify-content: flex-end;
+    padding-top: 2.11%;
+    padding-bottom: 2.11%;
+    padding-right: 6%
+}
+.marginTop10{
+    margin-top: 10px !important;
+}
+.loadingCss{
+    text-align: center;
+    height: 100vh;
+    padding-top: 10%
+}
+.btnRecorder{
+    display: flex;
+    justify-content: space-around;
+}
+.saveRecorder{
+    display: grid !important;
+    grid-template-columns: 0.6fr 2fr 1.20fr !important;
+    align-items: center;
+    margin-top: 15px;
+}
+.messgetable{
+    display: flex; 
+    justify-content: center;
+     align-items: center;
+      height: 20vh;
+}
+.msgNodta{
+    padding:5% !important;
+    text-align: center !important;
+    color: red !important;
+    border-bottom: 0px !important;
+}
+@media(max-width:1899px){
+    .saveRecorder{
+        display: grid !important;
+        grid-template-columns: 0.6fr 1fr 2fr !important;
+    }
+    .btnsavRecorder{
+        width: 40% !important;
+    }
+}
+
+
+   

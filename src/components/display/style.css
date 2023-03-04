@@ -1,0 +1,709 @@
+.displayControlCard{
+    padding-top: 6.4%;
+    padding-bottom: 15.8%;
+    padding-right: 10.7%;
+    padding-left: 10.7%;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    width:100%;
+    height: 745px;
+}
+.displayControlText1{
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-size: 16px !important;
+    line-height: 30px !important;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #222222;
+    padding-bottom: 4.4%;
+}
+.displayControlText2{
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: 300 !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    display: flex;
+    align-items: center;
+    color: #222222;
+    padding-bottom: 9%;
+}
+.displayControlSelect1{
+    width:100%;
+    padding-top: 11.5px;
+    padding-bottom: 11.5px;
+    padding-left: 9%;
+    background: #FFFFFF;
+    border: 1px solid #033733;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 20.8%;
+    font-family: Roboto !important;
+    font-size: 14px !important;
+
+}
+.displayControlOption1{
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 16px !important;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #222222;
+}
+.displayControlcheckBox1{
+    width:100%;
+    padding-top: 7.1px;
+    padding-bottom: 7.1px;
+    padding-left: 9%;
+    padding-right: 2%;
+    background: #FFFFFF;
+    border: 1px solid #033733 !important;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 14.5%;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+} 
+
+.displayControlcheckBox2{
+    color: #033733 !important;
+}
+.displayControlcheckBox2 .MuiFormControlLabel-label.Mui-disabled{
+  color: grey !important;
+}
+.displayControlLabel1{
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 16px !important;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    /* color: #222222; */
+    padding-left: 2.65vw;
+}
+.displayControlLabel1.MuiFormControlLabel-label.Mui-disabled{
+  color: grey !important;
+}
+.displayControlcheckBox3{
+    width:100%;
+    padding-top: 7.1px;
+    padding-bottom: 7.1px;
+    padding-left: 9%;
+    background: #FFFFFF;
+    border: 1px solid #033733 !important;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 14.5%;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding-right: 5%;
+} 
+.displayControlcheckBox3 .Mui-disabled{
+  cursor: not-allowed !important;
+  color: grey !important;
+}
+.displayControlcheckBox3 .MuiFormControlLabel-label.Mui-disabled{
+  color: grey !important;
+}
+.displayControlText3{
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: 300 !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #222222;
+    padding-right: 22.5%;
+}
+.displayControlText4{
+    width:31.6%;
+}
+.displayControlText4 .MuiOutlinedInput-notchedOutline{
+    border: 1px solid #033733;
+  }
+  .displayControlText4 .MuiOutlinedInput-input {
+    text-align: center;
+    font-family: Roboto !important;
+    font-size: 14px !important;
+  }
+
+  .displayControlSave{
+    width: 56.77%;
+    height: 30px;
+    border: 1px solid #009688 !important;
+    font-family: roboto !important;
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    text-transform: uppercase !important;
+    background: #009688 !important;
+    color: #ffffff !important;
+    border-radius: 5px !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-right: 25px !important;
+  }
+
+  .displayControlCancel {
+    width: 56.77%;
+    height: 30px;
+    background: #FFFFFF;
+    border-radius: 5px !important;
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    text-transform: uppercase !important; 
+    color: #009688 !important;
+    border: 1px solid #009688 !important;
+    margin-right: 25px !important;
+    margin-left: 25px !important;
+  }
+  .ivdDisplayCard{
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 1%;
+    padding-right: 1%;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 12px rgb(0 0 0 / 10%) !important;
+    border-radius: 10px;
+    margin-left: 5%;
+    height: 800px;
+  }
+  .ivdDisplaySettingCard{
+    padding-top: 0.75%;
+    padding-bottom: 1%;
+    padding-left: 1.65%;
+    padding-right: 2.15%;
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+    border-radius: 10px;
+   
+   
+  }
+.ivdDisplayText1{
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-size: 16px !important;
+    line-height: 30px !important;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #222222;
+}
+.ivdDisplayText2{
+    width:88.6%;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.ivdDisplayText2 .MuiOutlinedInput-notchedOutline{
+    border: 1px solid #033733;
+    
+  }
+  .ivdDisplayText2 .MuiOutlinedInput-input {
+    text-align: center;
+    font-family: Roboto !important;
+    font-size: 14px !important;
+  }
+  .ivdDisplayText3{
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-size: 16px;
+    line-height: 30px !important;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: #222222;
+    padding-right: 20px !important;
+}
+.ivdDisplayText4{
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-size: 16px !important;
+    line-height: 30px !important;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: #222222;
+    margin-right: 16px !important;
+   
+}
+
+  .DisplaySettingSave{
+    width: 9.77%;
+    height: 30px;
+    border: 1px solid #009688 !important;
+    font-family: roboto !important;
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    text-transform: uppercase !important;
+    background: #009688 !important;
+    color: #ffffff !important;
+    border-radius: 5px !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-right: 15px !important;
+  }
+
+  .DisplaySettingCancel {
+    /* width: 9.77%; */
+    height: 30px;
+    background: #FFFFFF;
+    border-radius: 5px !important;
+    font-family: Roboto !important;
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    text-transform: uppercase !important; 
+    color: #009688 !important;
+    border: 1px solid #009688 !important;
+    margin-left: 25px !important;
+    margin-right: 15px !important;
+  }
+  .DisplayFileListTableSyle .DisplayFileListTblRow
+  {
+    border: 1px solid #DDDDDD;
+  }
+  .DisplayFileListTableSyle .DisplayFileListTblcol{
+    border: 1px solid #DDDDDD;
+    font-family: roboto !important;
+    width:10%;
+  }
+  .DisplayFileListTblRow{
+    background-color: #022926 !important;
+    color: #FFFFFF !important;
+    font-family: Roboto !important;
+    border: 1px solid #DDDDDD !important;
+    width: 18%;
+  }
+      .DisplayFileListTblbdy{
+        background: #FFFFFF;
+        border: 1px solid #DDDDDD !important;
+        box-sizing: border-box;
+        border-radius: 0px;
+        color: black;
+      }
+      .DisplayFileListTblcol {
+        background-color: #FFFFFF;
+        color: black;
+       }
+       .DisplayFileListGridStyle{
+        border: 1px solid #DDDDDD !important;
+        box-sizing: border-box;
+        border-radius: 10px;
+       }
+
+       .DisplayFileListAdd{
+        
+        height: 30px;
+        border: 1px solid #009688 !important;
+        font-family: roboto !important;
+        font-style: normal;
+        font-weight: 500 !important;
+        font-size: 12px !important;
+        line-height: 14px !important;
+        text-transform: uppercase !important;
+        background: #009688 !important;
+        color: #ffffff !important;
+        border-radius: 5px !important;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        display: flex;
+        justify-content: end;
+      }
+      .DisplayFileListText1{
+        font-family: Roboto !important;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px !important;
+        line-height: 30px !important;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #222222;
+        padding-right: 88%;
+      }
+
+      .DisplayFileListAddGrid{
+        display: grid;
+        justify-content: end;
+      }
+      .DisplayFileListGridStyle2{
+          display: flex !important;
+          padding-top: 8px;
+          padding-bottom: 7px;
+          padding-right: 27px;
+          padding-left: 3.6%;
+
+      }
+      .DisplayFileListIconstyle{
+          color: gray;
+          font-size: 20px !important;
+          padding-right: 20px;
+      }
+      .IvdDisplaySave{
+        /* width: 16.4%; */
+        height: 30px;
+        border: 1px solid #009688 !important;
+        font-family: roboto !important;
+        font-style: normal;
+        font-weight: 500 !important;
+        font-size: 12px !important;
+        line-height: 14px !important;
+        text-transform: uppercase !important;
+        background: #009688 !important;
+        color: #ffffff !important;
+        border-radius: 5px !important;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        margin-right: 15px !important;
+        text-transform: uppercase;
+      }
+      .displayModalStyle{
+        background: #FBFBFB;
+        box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25) !important;
+        border-radius: 10px !important;
+        /* height: 51.6%; */
+        width: 52.45%;
+        position: static;
+        outline: none;
+        padding:1.2% 1% 4.25% 4.8%;
+      }
+      .displayModalText1{
+        font-family: Roboto !important;
+        font-style: normal;
+        font-weight: normal !important;
+        font-size: 16px !important;
+        line-height: 30px !important;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #222222;
+      }
+      .displayModalText2{
+        font-family: Roboto !important;
+        font-style: normal;
+        font-weight: 300 !important;
+        font-size: 12px !important;
+        line-height: 14px !important;
+        display: flex;
+        align-items: center;
+        color: #222222;
+      }
+      .displayModalText3{
+        font-family: Roboto !important;
+        font-style: normal;
+        font-weight: 500 !important;
+        font-size: 14px !important;
+        line-height: 16px !important;
+        display: flex;
+        align-items: center;
+        text-transform: capitalize;
+        color: #222222;
+       
+      }
+      .displayModalText4{
+        width: 92.9%;
+        height: 100%;
+      }
+      .displayModalText4 .MuiOutlinedInput-notchedOutline{
+        border: 1px solid #009688;
+        
+      }
+      .displayModalText4 .MuiOutlinedInput-input {
+        text-align: center;
+      }
+     .displayModalBrowseButton{
+        width:68% !important;
+        height: 100%;
+        border: 1px solid #009688 !important;
+        font-family: roboto !important;
+        font-style: normal;
+        font-weight: 500 !important;
+        font-size: 12px !important;
+        line-height: 14px !important;
+        text-transform: uppercase !important;
+        background: #009688 !important;
+        color: #FFFFFF !important;
+        border-radius: 5px !important;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      }
+      
+.displayModalCancelBtn{
+  width:34.5% !important;
+  height: 100%;
+  border: 1px solid #009688 !important;
+  font-family: roboto !important;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 12px !important;
+  line-height: 14px !important;
+  text-transform: uppercase !important;
+  background: #FFFFFF !important;
+  color: #009688 !important;
+  border-radius: 5px !important;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-right: 8.5% !important;
+  margin-left: 55% !important;
+  padding: 6px 0px;
+}
+
+.displayModalSaveBtn{
+  width:34.5% !important;
+  height: 100%;
+  border: 1px solid #009688 !important;
+  font-family: roboto !important;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 12px !important;
+  line-height: 14px !important;
+  text-transform: uppercase !important;
+  background: #009688 !important;
+  color: #FFFFFF !important;
+  border-radius: 5px !important;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 6px 0px;
+}
+.displayPlayListCheckbox{
+  color: #009688!important;
+}
+
+.DisplayPlayListTableSyle .DisplayPlayListTblRow1
+{
+  border: 1px solid #DDDDDD;
+}
+.DisplayPlayListTableSyle .DisplayPlayListTblcol1{
+  border: 1px solid #DDDDDD;
+  font-family: roboto !important;
+  width:7%;
+}
+.DisplayPlayListTblRow1{
+  background-color: #022926 !important;
+  color: #FFFFFF !important;
+  font-family: Roboto !important;
+  border: 1px solid #DDDDDD !important;
+  width: 6%;
+}
+
+.DisplayPlayListTblbdy1{
+  background: #FFFFFF;
+  border: 1px solid #DDDDDD !important;
+  box-sizing: border-box;
+  border-radius: 0px;
+  color: black;
+}
+.DisplayPlayListTblcol1 {
+  background-color: #FFFFFF;
+  color: black;
+ }
+ 
+ .DisplayPlayListIconstyle{
+  color: gray;
+  font-size: 20px !important;
+  padding-right: 20px;
+}
+.DisplayPlayListTableSyle .DisplayPlayListTblRow2
+{
+  border: 1px solid #DDDDDD;
+}
+.DisplayPlayListTblRow2{
+  background-color: #022926 !important;
+  color: #FFFFFF !important;
+  font-family: Roboto !important;
+  border: 1px solid #DDDDDD !important;
+  width: 28%;
+}
+.DisplayPlayListTableSyle .DisplayPlayListTblcol2{
+  border: 1px solid #DDDDDD;
+  font-family: roboto !important;
+  width:10%;
+}
+.DisplayPlayListTblcol2 {
+  background-color: #FFFFFF;
+  color: black;
+ }
+
+ .displayFileListSelect1{
+  width: 100%;
+  padding-top: 5.5px;
+  padding-bottom: 6.5px;
+  text-align: center;
+  background: #FFFFFF;
+  border: 1px solid #033733;
+  font-family: Roboto !important;
+  font-size: 12px !important;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.displayFileListSelectGrid{
+  display: flex;
+  justify-content: end;
+}
+
+.my-swal{
+  z-index: 10000;
+}
+.displayContentCss{
+  text-align: end;
+}
+.displayContentCss .MuiFormControlLabel-root.Mui-disabled{
+  cursor: not-allowed !important;
+  border: 1px solid grey !important;
+}
+
+.displayTimeoutCss{
+  display: flex;
+}
+.editCss{
+  padding: 1px;
+}
+.addFileModalcss{
+  left: 30.7% !important;
+    top: 28.4% !important;
+    background: none;
+    width: auto;
+}
+.warnModalcss{
+  left: 39.7% !important;
+  top: 30.4% !important;
+  background: none;
+  width: 20%;
+}
+.addFileGridcss{
+  text-align:right;
+  padding-bottom: 3.4%;
+}
+.iconButtonCss{
+  color: #009688 ;
+}
+.fileNameGridCss{
+  padding-top: 9.3%;
+}
+.fileNameGridCss-two{
+  display: flex ;
+  justify-content: right ;
+  padding-right: 4.3% ;
+}
+.fileLocationCss{
+  padding-top: 4.8%;
+  padding-bottom: 1.2%
+}
+.browseButtonGridCss{
+  display: flex;
+  justify-content: left
+}
+/* .errorCss{
+  color: red;
+  text-align: center
+} */
+.cancelButtoCss{
+  display: flex;
+  justify-content: right
+}
+.textAlignCenter{
+  text-align:center !important;
+}
+.tableCss{
+  min-height: 12vh !important;
+}
+.padding-1Css{
+  padding: 1px !important;
+}
+.maxHeightTableContainer{
+  min-height: 18vh !important;
+}
+.padding-15Css{
+  padding: 15px !important;
+}
+.SaveCancelButtonCss{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-top: 10px
+}
+.saveButtonDisplayCss{
+  display: inherit !important;
+}
+.margineTopCss{
+  margin-top: 15px !important;
+}
+.displaySelectedCss{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-top: 16px 
+}
+.displayTimeOut{
+  display: flex;
+  justify-content: space-between;
+}
+.displayTimeOut .displayControlText3{
+  padding-right: 0px !important
+}
+@media(max-width:1700px){
+
+}
+.display_formFields{
+  position: absolute; 
+  height: 100%; 
+  width: 80%; 
+  left: 20% !important; 
+  top: 0px !important; 
+  background: #ededed30; 
+  z-index: 1; 
+  cursor: not-allowed;
+}
+.display_Background{
+  background-color: rgba(0,0,0, 0.4);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 46% !important;
+  left: 52.5% !important;
+  transform: translate(-40%, -47%);
+  z-index: 3;
+  width: 78%;
+  text-align: center;
+  height: 794px;
+}
+.side_display_formFields{
+  position: absolute; 
+  background: #ededed30; 
+  z-index: 2; 
+  cursor: not-allowed;
+  margin: 9%;
+}
+.side_display_Background{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 25% !important;
+    left: 7.5%;
+    transform: translate(-78%, -34%);
+    height: 50%;
+    z-index: 3;
+    width: 14%;
+    padding: 3%;
+    text-align: center;
+}

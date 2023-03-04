@@ -1,0 +1,79 @@
+.help-heading-txt{
+  font-family: 'Roboto'!important;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  color: white;  
+  }  
+  .help-content{
+  font-family: 'Roboto'!important;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  color: white; 
+  }
+
+  .version{
+    position : absolute;
+    right: 20px;
+    font-weight: 900 !important;
+  }
+.small-card{
+  background-color:#022926!important;
+  height: 100%;
+  text-align: left;
+  margin-bottom: 20px;
+}
+.fAQ-content{
+font-family: 'Roboto'!important;
+font-size: 16px !important;
+font-weight: 600 !important;
+line-height: 30px !important;
+text-align: left;
+}
+
+.headText{
+font-family: Roboto;
+font-size: 36px;
+color: #FFFFFF;
+}
+.mainCardCss{
+  margin: 20px ;
+  position: relative ;
+  // height: 72vh;
+  min-height: 74vh;
+}
+.margineBottomCss{
+  margin-bottom: 100px;
+}
+.helpTrainLogocss{
+  position: absolute;
+  top: 25px;
+  left: 30px;  
+  right: 0;
+  bottom: 0;
+  justify-content: center;
+  align-items: center 
+}
+.welcomeIntegratedCss{
+  position: absolute;
+  top: 53px;
+  left: 120px;
+  right: 0;
+  bottom: 0;
+  justify-content: center;
+  align-items: center;
+  padding-left: 30px
+}
+.justifyContentCss{
+  justify-content: center;
+}
+.justifyContentSpace{
+  justify-content: space-evenly;
+}
+.marginBottom20{
+  margin-bottom: 20px !important;
+}
+.width100{
+  width: 100%;
+}

@@ -1,0 +1,66 @@
+.b {
+  border: 2px solid black;
+}
+.bttnlogin {
+  height: inherit;
+  width: 20ch;
+  font-size: 12px !important;
+}
+.login_txtfield {
+  width: inherit;
+  margin-top:20px;
+  background-color: #E8F0FE !important;
+}
+.MuiFormControl-root {
+  display: flex !important;
+}
+p {
+  font-family:'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.8rem;
+  line-height: 20px;
+  color: #1c1c1c;
+  text-align: left;
+}
+.login-project-title {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: #222222;
+}
+.margLoginText{
+  margin-top: 10px !important;
+}
+
+.MuiButton-root {
+  font-family: 'Roboto' !important;
+}
+
+.login_text{
+  font-family: 'Roboto';
+  font-size: 16px;
+  line-height: 20px;
+  color: #222222;
+}
+.MuiTypography-body1 {
+  font-family: 'Roboto' !important;
+}
+.mainHeader{
+  height:12vh;
+  width:100px;
+  background:#416865;
+}
+.mainFooter{
+  height: 10vh;
+  width:100%;
+  background: #416865;
+  justify-content:center;
+}
+.eyecolor{
+  color: grey !important;
+}
+.MuiSvgIcon-root{
+  margin-top: 0.2em ;
+}

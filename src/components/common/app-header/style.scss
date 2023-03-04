@@ -1,0 +1,212 @@
+.appheader_heading{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #022926;
+}
+
+.appheader_subtitle{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 13px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #022926;
+}
+.appheader_subtitles{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 13px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #022926;
+}
+// .log_out_btn{
+//   width: 100px;
+//   height: 34px;
+// }
+
+.menu_text{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+
+ 
+}
+
+// .tabs:hover {
+//   background-color:#009688!important;
+//   cursor: pointer;
+//   height: 100%;
+// }
+a.menu_text:hover{
+  background-color:#009688!important;
+}
+a.selected{
+  background-color:#009688!important;
+  
+  
+}
+.menu_image{
+  margin-right: 15px;
+  padding: 2px;
+  
+}
+.appHeadText {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #222222;}
+
+.appheader_heading{
+  margin-bottom: 10px;
+}
+.appheader_subtitle{
+  margin-bottom: 10px;
+}
+////new redesign header 20/-07/2022
+/// 
+#profileImage {
+  font-family:Roboto;
+   width: 2rem !important;
+   height: 2rem !important;
+  border-radius: 50%;
+   font-size: 1.25rem;
+   font-weight: 400;
+   box-shadow: 2px 2px 2px 2px grey;
+   color: #0c540c !important;
+  padding: 5px;
+  cursor: pointer;
+  margin-right: 15px;
+  padding-top: 15px;
+  padding-left: 7px;
+  padding-right: 7px;
+  text-align: center;
+}
+.Mainheader{
+  padding: 20px 40px 20px 20px !important;
+  background-color: #fff;
+  background: #fff;
+}
+.imgraillogo{
+  padding: 10px;
+
+}
+.imgraillogo img{
+  width: 80px;
+  height: 80px;
+}
+.btnlogout{
+  display: grid;
+  grid-template-columns: 0.1fr 2.9fr 1fr;
+  align-items: center;
+}
+ div.profileImageText{
+  color: #022926;
+  font-size: 22px !important;
+  text-transform: capitalize;
+}
+.userName{
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+
+}
+.btnloginUserName{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.MuiAppBar-colorPrimary{
+  background-color: #fff !important;
+}
+.headerFixed{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.MainContainer{
+top:223px;
+position: relative;
+  background: #e5e5e5;
+}
+.MainheaderCss{
+  height: 60%;
+  width: 100% !important;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  display: flex !important;
+}
+.rainwayLogo{
+  align-items: center ;
+  display: flex ;
+}
+.paddingTop20{
+  padding-top: 20px;
+}
+.justifyContentEnd{
+  justify-content: end;
+  width: auto !important;
+}
+.socketMainCss{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.socketMainCss2{
+  color: black;
+  text-align: center;
+}
+.logOutButton{
+  background-color:  #009688 !important;
+  color: #FFFFFF !important;
+}
+.ntesConnectedMainCss{
+  height: 20%;
+  color: black;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px
+}
+.ntesConnectedsCss{
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+.textAlingCenter{
+  text-align: center;
+}
+.appHeadTextData{
+  text-align: right;
+  padding-right: 20px;
+}
+.lastCssforHeader{
+  height: 20%;
+  width: 100% !important;
+  background-color: #022926;
+  justify-content: space-evenly;
+  align-items: center 
+}
